@@ -1,0 +1,1 @@
+# yamldotnet-trim-warning-repro
